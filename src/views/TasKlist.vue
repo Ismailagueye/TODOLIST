@@ -1,11 +1,13 @@
 <script setup>
+import list from '@/components/list.vue';
+
 
 </script>
 
 <template>
-<div class="lili">
-  <h1>List </h1>
-</div>
+  <main>
+    <list/>
+  </main>
 </template>
 
 
